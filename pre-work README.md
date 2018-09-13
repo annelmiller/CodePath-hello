@@ -4,7 +4,7 @@
 A simple "hello-world" type app that allows users to change the text color of a message, change the view color of the background, and reset to the original message by clicking buttons. The user can also add text in a text window and change the text message by clicking a button.
 
 ### App Walk-though
-<img src="https://imgur.com/OIvk3xR" width=200><br>
+<img src="https://i.imgur.com/OIvk3xR.gif" width=200><br>
 
 
 ### Required User Stories
